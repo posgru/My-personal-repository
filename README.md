@@ -18,6 +18,6 @@ Currently, I'm working on **Java development** projects and diving into security
 - Fuzzing techniques to detect vulnerabilities
 
 ## 🔗 Let's connect:
-- [X(Twitter)]([https://x.com/bfu1059738])
+- [X(Twitter)][https://x.com/bfu1059738]
 
 Feel free to reach out if you're interested in collaboration, learning more about my projects, or just want to chat about tech!
